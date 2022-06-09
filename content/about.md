@@ -7,4 +7,18 @@ featured_image: '/images/hero-1.jpg'
 
 # About
 
-Ricklab is awesome.
+**We are raindrops**
+
+**Different shapes, different sizes**
+
+**Just meet at a strange time in our lives**
+
+**Down, down, down...our sound like the sea**
+
+**Fly, fly, fly...our sound like the cloud**
+
+
+
+--------
+
+Contact US: quinnw1817@ctbu.edu.cn
