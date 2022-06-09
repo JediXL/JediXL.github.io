@@ -21,4 +21,4 @@ featured_image: '/images/hero-1.jpg'
 
 --------
 
-Contact US: quinnw1817@ctbu.edu.cn
+Contact US: quinnw1817@gmail.com
