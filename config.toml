@@ -2,7 +2,7 @@ baseURL = 'https://jediXL.github.io'
 languageCode = 'zh'
 title = 'RickLab'
 theme = "ananke"
-
+publishDir = 'public'
 
 [menu]
 [[menu.main]]
