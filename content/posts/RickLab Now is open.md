@@ -1,8 +1,8 @@
 ---
-title: "My First Post"
+title: "RickLab Now Is Open"
 date: 2022-06-05T18:04:09+08:00
 draft: false
-featured_image: '/images/hero-3.png'
+featured_image: '/images/hero-3.jpg'
 ---
 
 Welcome, Rick Labs is open to every interesting idea. 
