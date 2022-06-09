@@ -2,7 +2,7 @@
 # title: "Works"
 # date: 2022-06-02T18:04:09+08:00
 draft: false
-featured_image: '/images/hero-3.jpg'
+featured_image: '/images/hero-2.jpg'
 ---
 # Works
 

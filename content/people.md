@@ -2,7 +2,7 @@
 # title: "People"
 date: 2022-06-02T18:04:09+08:00
 draft: false
-featured_image: '/images/hero-4.jpg'
+featured_image: '/images/hero-2.jpg'
 ---
 
 |Wang Q |  Wang Y  | Song Q |Liu J|
