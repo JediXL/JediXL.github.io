@@ -1,0 +1,31 @@
+baseURL = 'https://jediXL.github.io'
+languageCode = 'zh'
+title = 'RickLab'
+theme = "ananke"
+publishDir = 'docs'
+
+[menu]
+[[menu.main]]
+  identifier = 'about'
+  name = 'About'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/about/'
+  weight = -110
+[[menu.main]]
+  name = 'People'
+  post = "<span class='alert'>New!</span>"
+  pre = "<i class='fa fa-road'></i>"
+  url = '/people/'
+  weight = -100
+[[menu.main]]
+  name = 'Works'
+  post = "<span class='alert'>New!</span>"
+  pre = "<i class='fa fa-road'></i>"
+  url = '/works/'
+  weight = -100
+[[menu.main]]
+  name = 'Contact US'
+  post = "<span class='alert'>New!</span>"
+  pre = "<i class='fa fa-road'></i>"
+  url = '/works/'
+  weight = -100
