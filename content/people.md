@@ -25,4 +25,4 @@ featured_image: '/images/hero-2.jpg'
 
 ## Dr. Liu Jiadi
 
-> Dr. Liu Jiadi focuses on multi-agent symbiosis. He's been focused on edge cloud computing for years, his current research is mainly about edge intelligence, software engineering, and Human-AI collaboration. He used to work as a product director, coder, and project manager for agencies and still trying to be a "Stylebender".
+> Dr. Liu Jiadi focuses on multi-agent symbiosis. He’s been focused on edge cloud computing for years, his current research is mainly about edge intelligence, software engineering, and Human-AI collaboration. He worked as a product director, coder, and project manager and now is trying to be a “Stylebender”.

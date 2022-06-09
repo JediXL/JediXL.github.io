@@ -11,11 +11,11 @@ featured_image: '/images/hero-2.jpg'
 
 **Different shapes, different sizes**
 
-**Just meet at a strange time in our lives**
+**Just met at a strange time in our lives**
 
-**Down, down, down...our sound like the sea**
+**Down, down, down...our sound like a sea**
 
-**Fly, fly, fly...our sound like the cloud**
+**Fly, fly, fly…we float like clouds**
 
 
 
